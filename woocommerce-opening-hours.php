@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: WooCommerce Opening Hours
-Plugin URI:  https://github.com/jedidrew42/woocommerce-custom-plugin
+Plugin URI:  https://github.com/jedidrew42/woocommerce-store-closed-plugin/
 Description: Control when your WooCommerce store is open
 Version:     1.0
 Author:      Drew Norman
